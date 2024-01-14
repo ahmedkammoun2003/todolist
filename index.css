@@ -1,0 +1,17 @@
+body{
+    background-color: blueviolet;
+}
+#head1{
+    width: 90vw;
+    height: 20px;
+    background-color: aqua;
+}
+button{
+    background-color: aqua;
+    height: 20px;
+}
+li{
+    width: 80vw;
+    margin: 10px;
+    background-color: aquamarine;
+}
